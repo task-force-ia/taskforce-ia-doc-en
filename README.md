@@ -1,4 +1,4 @@
-# White paper IA
+# AI White Paper
 
 This repository contains the sources in the MarkDown format of the [“White paper IA”](https://whitepaper-ia.readthedocs.io/) document available on ReadTheDocs.
 
