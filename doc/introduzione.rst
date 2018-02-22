@@ -6,7 +6,7 @@ Guide to consultation
 1. **It is not the final document.**
 
 2. **It is neither a scientific paper, nor a document meant to give a
-   360 view of AI implications.**
+   360° view of AI implications.**
 
 3. **It does not intend to be a policy document.**
 
