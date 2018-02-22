@@ -1,6 +1,6 @@
 # AI White Paper
 
-This repository contains the sources in the MarkDown format of the [“White paper IA”](https://whitepaper-ia.readthedocs.io/) document available on ReadTheDocs.
+This repository contains the sources in the MarkDown format of the [“AI White Paper”](https://whitepaper-ia.readthedocs.io/) document available on ReadTheDocs.
 
 The document represents the draft of the Artificial Intelligence white paper. The text - produced by the AI task force - will contain suggestions and recommendations that the Italian public administration will be able to adopt to align itself with the best international practices.
 

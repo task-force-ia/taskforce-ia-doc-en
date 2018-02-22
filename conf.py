@@ -10,8 +10,8 @@ settings_copyright_copyleft = 'CC0 1.0 Universal - Agenzia per l\'Italia Digital
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = "draft"
 settings_doc_release = "draft"
-settings_basename = 'whitepaperIA'
-settings_file_name = 'whitepaperIA'
+settings_basename = 'AIwhitepaper'
+settings_file_name = 'AIwhitepaper'
 discourse_url = 'https://ia.italia.it/community/'
 
 # Add any Sphinx extension module names here, as strings. They can be
