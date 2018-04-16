@@ -57,9 +57,6 @@ that its use is limited to specific purposes. The challenge is clearly
 to find a balance between the development of Artificial Intelligence and
 respect for citizens’ right to privacy, giving them the opportunity to
 express their consent to the processing of data by intelligent systems.
-
-.. discourse::
-   :topic_identifier: 1004
    
 .. rubric:: Footnotes
 

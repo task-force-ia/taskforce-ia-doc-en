@@ -134,9 +134,6 @@ the dissemination of PCP (pre-commercial procurement).
 | technologies typified for people with an autistic spectrum condition  |
 | (ASC) [6]_.                                                           |
 +-----------------------------------------------------------------------+
-
-.. discourse::
-   :topic_identifier: 1005
    
 .. rubric:: Footnotes
 

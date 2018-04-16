@@ -67,9 +67,6 @@ determine valid models for an ethical and responsible use of AI.
 Measurement tools must be strict to determine the effective social
 impacts of AI ​​and to define how these technologies can actually
 influence our lives.
-
-.. discourse::
-   :topic_identifier: 1007
    
 .. rubric:: Footnotes
 

@@ -81,9 +81,6 @@ The last three items of the list just presented introduce a further
 issue for PA: making sure that anyone who wants to develop Artificial
 Intelligence solutions useful for citizens can have equal and
 non-discriminatory access to the necessary data [6]_.
-
-.. discourse::
-   :topic_identifier: 1003
    
 .. rubric:: Footnotes
 

@@ -127,8 +127,6 @@ equity, as well as the satisfaction of certain basic universal needs,
 including respect for the freedom and rights of individuals and the
 community [10]_.
 
-.. discourse::
-   :topic_identifier: 1000
    
 .. rubric:: Footnotes
 
