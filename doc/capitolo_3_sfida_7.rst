@@ -145,9 +145,6 @@ community.
 | -mathematics-reveals-the-hidden-sexism-in-language/>`__               |
 | are strongly affected by gender *bias*.                               |
 +-----------------------------------------------------------------------+
-
-.. discourse::
-   :topic_identifier: 1006
    
 .. rubric:: Footnotes
 

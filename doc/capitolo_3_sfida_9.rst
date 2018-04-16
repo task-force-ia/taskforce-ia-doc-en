@@ -99,9 +99,6 @@ advantage, built on the ability to “imagine the world”. For this reason,
 it is necessary to create and support initiatives in which artists and
 designers work side by side with AI researchers, humanists, engineers
 and managers.
-
-.. discourse::
-   :topic_identifier: 1008
    
 .. rubric:: Footnotes
 

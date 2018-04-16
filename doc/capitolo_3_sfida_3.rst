@@ -114,9 +114,6 @@ companies know they have to implement resources and skills to keep up
 with the market, also PA, if it does not want to lose in capability,
 competitiveness and attractiveness, will have to envisage a plan to
 expand the skills of public employees and innovate digital services.
-
-.. discourse::
-   :topic_identifier: 1002
    
 .. rubric:: Footnotes
 

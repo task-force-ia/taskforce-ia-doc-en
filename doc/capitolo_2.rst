@@ -194,9 +194,6 @@ precisely that of public procurement.
 
 **Here the technical terms data sheets extracted from the glossary will
 be inserted for a better understanding of the rest of the document.**
-
-.. discourse::
-   :topic_identifier: 999
    
 .. rubric:: Footnotes
 

@@ -108,9 +108,6 @@ here we can mention:
 |    other signs). [4]_                                                 |
 +-----------------------------------------------------------------------+
 
-.. discourse::
-   :topic_identifier: 1001
-   
 .. rubric:: Footnotes
 
 .. [1]

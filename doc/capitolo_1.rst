@@ -130,9 +130,6 @@ relationship between State and citizens.
 
 **Insertion of Supplementary Data Sheets on Projects Linked to the
 Three-Year Plan (Spid, PagoPa) - by AgID**
-
-.. discourse::
-   :topic_identifier: 998
    
 .. rubric:: Footnotes
 
