@@ -11,6 +11,7 @@ The English version of the White Paper is available in PDF version (`https://ia.
 .. toctree::
    :maxdepth: 2
 
+   doc/consultazione
    doc/introduzione
    doc/capitolo_1
    doc/capitolo_2
