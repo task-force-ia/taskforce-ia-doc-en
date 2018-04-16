@@ -3,22 +3,15 @@
 Artificial Intelligence at the service of the citizen
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-This first version of the white paper is the result of the research,
-analysis and participatory writing process undertaken by the Task Force
-Coordination Board.
-
-The document, which will be available for public consultation until
-**March 12th 2018**, does not aim at touching upon the multiple
-aspects and implications related to Artificial Intelligence.
-
-This first version represents a starting point and we ask all those who
-will comment and contribute to the final version to read carefully what
-this white paper is and what it is not in the section “`guide to
-consultation <doc/introduzione.html>`__”.
+The white paper is the result of the research, analysis and participatory writing process undertaken by the Task Force Coordination Board.  It is the result of a consultation synthesis and analysis process that has involved hundred public and private subjects that deal with Artificial Intelligence in Italy.
+The consultation ended on March **12th 2018**.
+The Italian version of the White Paper was presented on **March 21, 2018**.
+The English version of the White Paper is available in PDF version (`https://ia.italia.it/assets/whitepaper.pdf <https://ia.italia.it/assets/whitepaper.pdf>`__) and will soon be available on Read The Docs
 
 .. toctree::
    :maxdepth: 2
 
+   doc/consultazione
    doc/introduzione
    doc/capitolo_1
    doc/capitolo_2
