@@ -12,7 +12,7 @@ The consultation ended on **March 12th 2018**.
 The Italian version of the White Paper was presented on **March 21, 2018**.
 
 
-The English version of the White Paper is available in PDF version (`https://ia.italia.it/assets/whitepaper.pdf <https://ia.italia.it/assets/whitepaper.pdf>`__) and will soon be available on Read The Docs
+The English version of the White Paper is available in PDF version (`https://ia.italia.it/en/assets/whitepaper.pdf <https://ia.italia.it/en/assets/whitepaper.pdf>`__) and will soon be available on Read The Docs
 
 .. toctree::
    :maxdepth: 2
