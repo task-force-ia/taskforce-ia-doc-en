@@ -1,50 +1,55 @@
-Challenge 1: Ethics
+﻿Challenge 1: Ethics
 -------------------
 
-Artificial Intelligence, as with the appearance and affirmation of every
-new technology, re-proposes the contrast between the “doom-mongers and
-enthusiasts” [1]_. The **doom-mongers** fear that Artificial
-Intelligence will prevail over people, will decide for them, steal their
-work, discriminate against them, violate their privacy, and will
-secretly control them by conditioning their lives. The **enthusiasts**,
-on the other hand, dream of a world where machines are capable of
-autonomously performing bureaucratic processes, of being used as
-powerful computational tools to process and interpret large amounts of
-data in the best way, replacing men in the most burdensome and
-repetitive tasks, and creating solutions able to diminish crime and
-eradicate diseases.
+The issue of Artificial Intelligence, as with the appearance and affirmation of every new technology, re-proposes the contrast between the "doom-mongers and enthusiasts" [1]_. 
 
-Basically there are two perceptions of technology, which are
-diametrically opposed. That of the “doom-mongers” negatively assesses
-the introduction of AI in Public Administration (PA), citing a series of
-critical issues that could have negative effects not only on the
-efficiency and effectiveness of the measures but also on citizens’
-rights. That of the “enthusiasts”, on the other hand, considers the use
-of AI to be extremely positive, believes that the implementation of
-these technologies can significantly improve not only the activity of
-the PA but also the quality of life of citizens and that a total and
-unconditional process of research and development is therefore necessary
-in this area [2]_. Two extreme points of view, each with different
-peculiarities, which must be critically analysed in order to resolve the
-weaknesses indicated by the “doom-mongers” and modulate the strengths
-sustained by the “enthusiasts”.
+The **doom-mongers** fear that Artificial Intelligence will prevail over people, will decide for them, steal their jobs, discriminate against them, violate their privacy, and will secretly control them by conditioning their lives. 
 
-The examples mentioned above are not chosen by chance, they are the
-result of the debate that in recent years has been going on in the
-scientific community and in civil society regarding the impact of AI
-systems on our lives.
+The **enthusiasts**, on the other hand, dream of a world where machines are capable of autonomously performing bureaucratic processes, of being used as powerful computational tools to process and interpret large amounts of data in the best way, replacing men in the most burdensome and repetitive tasks, and creating solutions able to diminish crime and eradicate diseases.
 
-The ethical challenge of the introduction of Artificial Intelligence
-solutions is represented by the need to respond in a balanced manner to
-the polarisation of these two visions, integrating innovation and taking
-into account the effects that this has already had and will continue to
-have in the development of society, respecting and safeguarding the
-universally recognised core values.
+Basically there are two perceptions of technology, of diametrically opposite sign.
 
-Public Administration is therefore called upon to deal with numerous and
-complex ethical issues. To understand its extent, it is possible to
-analyse those that represent the central elements in the public debate
-and in scientific analysis:
+That of the **doom-mongers**, negatively assesses the introduction of AI in Public
+Administration (PA), citing a series of critical issues that could have negative effects not
+only on the efficiency and effectiveness of the measures but also on citizens’ rights.
+
+That of the **enthusiasts**, on the other hand, considers the use of AI to be extremely positive, believes that the implementation of these technologies can significantly improve not only the activity of the PA but also the quality of life of citizens and that a total and unconditional process of research and development is therefore necessary in this area [2]_.
+
+
+Two extreme points of view, each with different peculiarities, which must be critically
+analysed in order to resolve the weaknesses indicated by the “doom-mongers” and
+modulate the strengths sustained by the “enthusiasts”.
+The examples mentioned above are not chosen by chance, but are the result of the debate
+that in recent years has been going on in the scientific community and in civil society
+regarding the impact of AI systems on our lives.
+
+The ethical challenge of the introduction of Artificial Intelligence solutions is represented
+by the need to respond in a balanced manner to the polarisation of these two visions,
+integrating innovation and taking into account the effects that this has already had and will
+continue to have in the development of society, respecting and safeguarding the universally
+recognised core values.
+
+The use of AI based on algorithms of data analysis in decision-making processes related
+to social, health and judicial issues (such as risk assessment) therefore requires a thorough
+reflection in terms of ethics and, more broadly, of governance.
+
+The algorithms for data analysis involve high costs that encompass the entire evolutionary
+cycle of their functioning: from implementation to evolutionary maintenance, to the
+verification of results and to the training of users who must use them responsibly. Speaking
+of greater efficiency or tax cuts thanks to the use of AI technologies in public services can
+be a misleading narrative register as a correct development of such tools implies high costs
+and great attention to the ethical aspects related to their use.
+
+The focus on the functional development of this technology requires the economic and
+professional resources suitable for ethical development and above all in line with the data it
+processes and the decisions it guides. Otherwise, what will come out of the analysis will only
+help finance the private sector, with the illusion of helping people. Or, worse, to introducing
+a distortion or a flight of responsibility, from time to time referring the cause of decisional errors to the algorithms instead of the decision makers.
+
+Capitalizing on the benefits of technology requires important investment on the part of the PA and a significant commitment to improve the quality and efficiency of services and to have systems that are secure and able to truly reduce inequalities.
+
+To understand its extent, it is possible to analyse those that represent the central
+elements in the public debate and in scientific analysis:
 
 -  **data quality and neutrality**: machine learning systems need data
    which is “annotated” [3]_ by human beings (*supervised learning*) or
@@ -55,21 +60,21 @@ and in scientific analysis:
    meaning of an image or a concept, as happened, for example, with
    certain algorithms used to prevent crimes, in which the data was
    compromised by a historical series that emphasised ethnic
-   differences [4]_. Ore unbalanced datasets, that overestimate or
+   differences [4]_. Or unbalanced datasets, that overestimate or
    underestimate the weight of certain variables in the reconstruction
    of the cause-effect relationship necessary to explain certain events
    and, above all, to predict them;
 
--  **responsibility (accountability and liability)**: the examples
+-  **responsibility (accountability and liability)** [5]_: the examples
    just mentioned highlight the strong impact that Artificial
    Intelligence has on the decision-making activity of public entities.
    Both when it acts as an assistant to human beings as well as as an
    autonomous entity, AI generates effects on the lives of people in
    relation to which it is necessary to be able to establish legal
    liability. Nevertheless, the ownership of the latter is not clearly
-   identifiable, since it could be attributed to the producer [5]_ or to
-   the owner [6]_ of the Artificial Intelligence, or even to its end
-   user [7]_. Those who design AI systems can be responsible for design
+   identifiable, since it could be attributed to the producer [6]_ or to
+   the owner [7]_ of the Artificial Intelligence, or even to its end
+   user [8]_. Those who design AI systems can be responsible for design
    or implementation defects, but not for behaviour caused by inadequate
    instruction datasets. Can a public decision-maker be considered
    politically responsible for the decisions made on the basis of
@@ -88,7 +93,7 @@ and in scientific analysis:
    need to establish principles for the use of AI technologies in a
    public context.
 
--  **transparency and openness**: the issue of the responsibility of
+-  **transparency and openness** [9]_: the issue of the responsibility of
    public administration also has to do with the duties of the latter
    with respect to citizens, when it decides to provide them with
    services or to make decisions that concern them, using Artificial
@@ -104,7 +109,7 @@ and in scientific analysis:
    carry out the same offences even more broadly, producing not only
    injustices but also social discrimination.
 
--  **protection of the private sphere**: a further need, closely linked
+-  **protection of the private sphere** [10]_: a further need, closely linked
    to the previous one, is to protect the data of the individuals. PA
    must design services based on AI able to guarantee efficiency and
    prompt response, but also protection of citizens’ sensitive data.
@@ -116,36 +121,23 @@ and in scientific analysis:
    the new derived information? Is it ethical to use this data to feed
    predictive systems?
 
-To address these challenges, it may be helpful to follow some general
-principles. Among these we can mention the need for an
-*anthropocentric*\  [8]_ approach, according to which Artificial
-Intelligence must always be put at the service of people and not vice
-versa [9]_. Moreover, there are principles of procedural (non-arbitrary
-procedures), formal (equal treatment for equal individuals or groups)
-and substantial (effective removal of economic and social obstacles)
-equity, as well as the satisfaction of certain basic universal needs,
-including respect for the freedom and rights of individuals and the
-community [10]_.
+To address these challenges, it may be helpful to follow some general principles.
+Among these we can mention the need for an anthropocentric [11]_ approach, according to which Artificial Intelligence must always be put at the service of people and not vice versa [12]_.
+Moreover, there are principles of procedural (non-arbitrary procedures), formal (equal treatment for equal individuals or groups) and substantial (effective removal of economic and social obstacles) equity, as well as the satisfaction of certain basic universal needs, including respect for the freedom and rights of individuals and the community [13]_.
+These and many other aspects related to the need to place AI at the service of people in
+every context are analysed in subsequent challenges.
 
    
 .. rubric:: Footnotes
 
 .. [1]
-   *See* Umberto Eco, *Apocalittici e integrati (doom-mongers and
-   enthusiasts)*, ed. Bompiani, 1964, Bolter, J.D, Grusin, R. 1999,
-   Remediation. Understanding News Media, MIT Press Cambridge, Ma. (It.
-   trans. Remediation, Guerini e Associati, Milan 2002).
+   Ref. Umberto Eco, Apocalittici e integrati, Bompiani, 1964.
 
 .. [2]
-   The utopias of the “Californian ideology” (Richard Barbrook,
-   *Imaginary Futures: From Thinking Machines to the Global Village,*
-   2007) are currently contrasted by the radical criticism of
-   technological “solutionism” (Eugenij Morozov, *To Save Everything,
-   Click Here. The Folly of Technological Solutionism,* 2013).
+  The utopias of the “Californian ideology” (Richard Barbrook, Imaginary Futures: From Thinking Machines to the Global Village, 2007) are currently contrasted by the radical criticism of technological “solutionism” (Eugenij Morozov, To Save Everything, Click Here. The Folly of Technological Solutionism, 2013). The challenges of AI at the service of citizens
 
 .. [3]
-   Data that is enriched with comments and metadata. For example, a
-   caption can act as a description of an image.
+   Data that is enriched with comments and metadata. For example, a caption can act as a description of an image.
 
 .. [4]
    Bruno Lepri, Nuria Oliver, Emmanuel Letouz, Alex Pentland, Patrick
@@ -154,45 +146,28 @@ community [10]_.
    the open challenges*\ ”, Science business media, Springer, 2017.
 
 .. [5]
-   There are neural networks whose calculation algorithms are not
-   completely reconstructable, not even by their programmers, generating
-   what is called the “black-box effect”. See, on these topics:
-   `https://arxiv.org/pdf/1706.08606.pdf <https://arxiv.org/pdf/1706.08606.pdf>`__,
-   `https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/ <https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/>`__.
+   Ref. “Legal challenge”.
 
 .. [6]
-   What currently happens in the field of robotics.
+   There are neural networks whose calculation algorithms are not completely reconstructable, not even by their programmers, generating what is called the “black-box effect”.
 
 .. [7]
-   With a parallel, we could cite the case of construction works. The
-   builder bears full responsibility for the first years after the
-   inauguration of the work, but then the responsibility passes to the
-   person responsible for its maintenance.
+   What currently happens in the field of robotics.
 
 .. [8]
-   *See*
-   `http://www.g7italy.it/sites/default/files/documents/ANNEX2-Artificial_Intelligence_0.pdf <http://www.g7italy.it/sites/default/files/documents/ANNEX2-Artificial_Intelligence_0.pdf>`__
+   With a parallel, we could cite the case of construction works. The builder bears full responsibility for the first years after the inauguration of the work, but then the responsibility passes to the person responsible for its maintenance.
 
 .. [9]
-   Necessary, paraphrasing Kantian thought, that AI “treats man always
-   as an end and never as one of the means”. Immanuel Kant, *Foundation
-   of the Metaphysics of Morals,* 1785. For example, the famous Asimov
-   robotics laws go in this direction: a robot cannot harm a human being
-   nor can it allow a human being to be harmed due to its failure to
-   intervene; a robot must obey the orders given by human beings,
-   provided that such orders do not contravene the First Law; a robot
-   must protect its existence, provided that this self-defense does not
-   conflict with the First or the Second Law.
+  Ref. “Legal challenge”.
 
 .. [10]
-   Based on very similar concepts, some countries, such as Canada
+  Ref. “Legal challenge”.
 
-   (`https://medium.com/code-for-canada/responsible-ai-in-the-government-of-canada-a-sneak-peek-973727477bdf <https://medium.com/code-for-canada/responsible-ai-in-the-government-of-canada-a-sneak-peek-973727477bdf>`__),
-   have tried to establish a sort of Ten Commandments, able to guide all
-   the choices of their Public Administration in the field of Artificial
-   Intelligence. But there are also those who believe that the general
-   principles of ethics cannot be applied to all the sectors in which
-   Artificial Intelligence can operate, rather it would be better to
-   organise sectoral consultations, guided by the institutions but also
-   open to stakeholders, in order to understand which codes and ethical
-   charters apply to the various spheres of civil life.
+.. [11]
+  Ref. http://www.g7italy.it/sites/default/files/documents/ANNEX2-Artificial_Intelligence_0.pdf.
+
+.. [12]
+   Necessary, paraphrasing Kantian thought, that AI “treats man always as an end and never as one of the means”. Immanuel Kant, Fondazione della metafisica dei costumi, 1785.
+
+.. [13]
+   Ref. https://medium.com/code-for-canada/responsible-ai-in-the-government-of-canada-a-sneak-peek-973727477bdf. 
