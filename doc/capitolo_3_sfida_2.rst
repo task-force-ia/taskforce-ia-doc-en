@@ -13,7 +13,7 @@ The lack or unavailability of adequate resources for the Italian language, toget
 
 The distinctive characteristics of the “technological challenge” can therefore be identified by two keywords: “personalisation” and “adaptability”.
 
-In fact, the overcoming of this challenge means to be Overcoming this challenge means able to create PA systems and services modelled on the multiple needs of citizens, able to evolve with them, able to encourage personalised experiences.
+In fact, the overcoming of this challenge means to be able to create PA systems and services modelled on the multiple needs of citizens, able to evolve with them, able to encourage personalised experiences.
 
 This issue can be approached analytically by linking the most developed sectors and technologies in the field of Artificial Intelligence with the activities and tasks typical of Public Administration.
 
