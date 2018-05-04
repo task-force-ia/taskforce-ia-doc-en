@@ -40,7 +40,7 @@ information, the data needs adequate tools to be exploited to its full potential
 information retrieval [3]_ and filtering models and methods are needed based on semantic 
 technologies and shared ontologies. 
 
-This work, already envisaged by the DAC and launched within the scope of the activities of 
+This work, already envisaged by the Digital Administration Code (DAC) and launched within the scope of the activities of 
 the Digital Team, will be part of the broader perspective of conceptual governance of public 
 information assets.
 
