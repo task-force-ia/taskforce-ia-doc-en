@@ -40,8 +40,7 @@ It is necessary to operate in order to ensure access to AI tools and solutions a
 
 A PA linked to the paradigm of social responsibility should not create situations in which the most advanced contact methods, which are also the simplest and which guarantee greater accessibility of services, are the exclusive preserve of those who, by culture, propensity, social extraction or technological endowment are more predisposed to such uses [4]_.
 
-It is necessary that the administration takes great care in acquiring or
-addressing the development of AI solutions in order to ensure that:
+It is necessary that the Public Administration carefully manages the development of AI solutions on order to guarantee that:
 
 -  they are inclusive, accessible, transparent and comply with legal requirements;
 
