@@ -2,7 +2,7 @@
 =========================================
 
 What is Artificial Intelligence (AI)?
-There are many definitions, among them, the one of of the University of Stanford, which identifies it as “a science and a set of computational techniques that are inspired - albeit typically operating in a different way - by the way in which human beings use their nervous system and their body to feel, learn, reason and act” [1]_.
+There are many definitions, among them, the one of the University of Stanford, which identifies it as “a science and a set of computational techniques that are inspired - albeit typically operating in a different way - by the way in which human beings use their nervous system and their body to feel, learn, reason and act” [1]_.
 
 Novels and science fiction films exploit and give credit to fear of the unknown: Artificial Intelligence is often represented in a negative way, as a danger to humanity, potentially capable of taking over and dominating [2]_ us but in reality AI is already part of our daily life.
 
