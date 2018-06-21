@@ -5,12 +5,12 @@ This section represents a list of suggestions that is definitely not exhaustive 
 be the first steps that the Public Administrations, also through the support of AgID, can 
 follow to start implementing AI or to fully exploit its potential, without incurring the risks 
 raised in the challenges of this White Paper.
-Some tools are already used by the administrations that feed them in daily life to increase 
+Some tools are already being used by the administrations that feed them in daily life to increase 
 the efficiency and effectiveness of services; in other cases, it is necessary to think of new 
 ones, precisely to cope with the lack of adequate solutions of Artificial Intelligence that 
 support the administration in the administrative activity and in the management of services.
 In this paragraph, we aim to indicate a small “toolbox”, a starting point pending more 
-operational steps and paths that can give a more solid and clear context to new technological 
+operational steps and paths that can give a more solid and clear context to the new technological 
 solutions, sustainable implementation of Artificial Intelligence really at the service of 
 citizens.
 
@@ -21,7 +21,7 @@ role that AI can play in the management of their activities must move from a
 starting point: AI is not always a panacea and is not suitable for any type of 
 challenge. 
 Therefore, it is necessary to analyse in advance which internal processes or 
-services to citizens can be facilitated by the use of technologies based on AI and, 
+services can be facilitated by the use of technologies based on AI and, 
 at that point, develop the expectations and impact in relation to the support that 
 can derive in terms of efficiency and/or fairness.
 
@@ -39,15 +39,15 @@ The Task Force of the Italian Digital Agency remains available to explore forms
 of co-financing and identification of the needs of the Administration through the 
 email intelligenza-artificiale@agid.gov.it.
 
-Let's not forget the three-year plan
+Let's not forget the Three-Year Plan
 ------------------------------------
 AI requires accelerating the path of digital transformation. The Three-Year 
 Plan provides all the indications to build the foundations on which it will be 
 possible to implement AI solutions. There are already many tools useful for the 
 implementation of the Three-Year Plan, such as the `minimum measures for ICT 
 security to public administrations <https://www.cert-pa.it/documents/10184/27607/CircolareAgID_170418_n_2_2017_Mis_minime_sicurezza_ICT_PA-GU-103-050517.pdf/7ca821ea-f8cc-4310-9fad-3c6ec1ca7f85>`__, which must be adopted to counter the most 
-common and frequent threats to which their information systems are subject.
-Or the many procurement channels that can be activated, depending on the 
+common and frequent threats to which their information systems are subjected.
+In addition to that, many procurement channels can be activated, depending on the 
 financial perimeter and the diversified technical needs: from the more classic 
 appeal to the Electronic Market for Public Administration (`MEPA <https://www.acquistinretepa.it/opencms/opencms/>`__) and to the 
 Public Connection System (SPC), in particular, `lot 3 <https://www.spclotto3.it/>`__ on Interoperability for data 
@@ -99,7 +99,7 @@ and programs, in addition to the new training and teaching offer of courses and
 the establishment of ad hoc departments.
 At the same time, administrations need substantial investment in human capital 
 to manage the growth and potential of new technological systems.
-Universities and the public sector in general should face the possible lack of AIrelated skills with synergy and identify new models for working with AI experts 
+Universities and the public sector in general should face the possible lack of AI related skills with synergy and identify new models for working with AI experts 
 from the private sector and academic world. 
 On the `ia.italia.it <https://ia.italia.it/>`__ portal, a mapping of AI-related courses in Italy will soon be 
 available. 
@@ -112,8 +112,6 @@ The reference portal of the Artificial Intelligence Task Force, ai.italia.it wil
 active and updated with the initiatives that will be deployed in the coming 
 months. It is advisable to consult it frequently and to subscribe to the newsletter 
 to stay updated on developments and news.
-The  `community <https://ia.italia.it/community/>`__, will also remain active, where it is possible to participate in open 
-(or start new) discussions on issues related to the Task Force activity and to AI 
-in general.
-For any information or any collaboration, there is always the email `intelligenza-artificiale@agid.gov.it <mailto:intelligenza-artificiale@agid.gov.it>`__
+The  `community <https://ia.italia.it/community/>`__, will also remain active, where it is possible to participate in open or new discussions on issues related to the Task Force activity and to AI in general.
+For any information or any collaboration, you can always contact us at `intelligenza-artificiale@agid.gov.it <mailto:intelligenza-artificiale@agid.gov.it>`__
 
