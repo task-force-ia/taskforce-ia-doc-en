@@ -9,13 +9,13 @@ with the continuous public debate on Artificial Intelligence.
 1. **Promote** a national platform dedicated to the development of AI solutions in 
    order to: 
   a. promote the collection of annotated data, codes and learning models;
-  b. organize and convey tests openly before the release of AI   systems used in 
+  b. organize and convey tests openly before the release of AI systems used in 
      the PA in order to evaluate their behaviour and limit the anomalies and the 
      amplification of the bias;
   c. offer adequate computing resources to experiment with techniques and solutions;
   
 2. **Disclose** to the public the intermediate results of the elaboration of AI 
-   algorithms (ex. parameters of neural networks) operated on data from public 
+   algorithms (e.g. parameters of neural networks) operated on data from public 
    administrations, subject to conditions that may harm the privacy and security 
    of citizens. These results must allow the reproducibility of the processes, their 
    evaluation and verifiability; 
@@ -42,11 +42,11 @@ with the continuous public debate on Artificial Intelligence.
    professionals working in the area of AI  (through the creation and adoption of a 
    shared framework ) and provide for the establishment of training paths for the 
    inclusion of workers with ability to understand and implement AI solutions in 
-   the public administration (for example through specific courses at the National 
+   the public administration (e.g. through specific courses at the National 
    School of Administration). The numerous professional skills lacking are an 
    opportunity to think about training courses focus on lasting and sustainable 
-   gender equality, both from a numerical point of view (ex. STEM graduates) and 
-   from a financial point of view (ex. remuneration equality); 
+   gender equality, both from a numerical point of view (e.g. STEM graduates) and 
+   from a financial point of view (e.g. remuneration equality); 
 
 7. **Provide** a PA 4.0 plan to encourage PA investments in AI solutions starting 
    from a call for challenges through open innovation tools and procurement for 
